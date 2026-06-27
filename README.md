@@ -21,25 +21,25 @@ Technology Stack :
 
 Frontend :
 
- React
- TypeScript
- CSS
+- React
+- TypeScript
+- CSS
 
 Backend :
 
-FastAPI
-Python
+-FastAPI
+-Python
 
 Artificial Intelligence :
 
-Ollama
-Llama 3
-LLM Layer
+-Ollama
+-Llama 3
+-LLM Layer
 
 Database & Storage :
 
-MySQL
-ChromaDB (Vector Database)
+-MySQL
+-ChromaDB (Vector Database)
 
 
 
