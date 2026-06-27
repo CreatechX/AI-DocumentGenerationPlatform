@@ -1,13 +1,13 @@
 ForgeMind :AI-Powered Document Generation Platform
 
 
-Overview :
+- Overview :
 
 An AI-powered document generation platform that transforms natural language prompts into professionally formatted PDF and DOCX documents. The application leverages Large Language Models (LLMs) to generate high-quality content and provides an intuitive interface for document creation and management.
 
 
 
-Key Features :
+- Key Features :
 
 AI-powered document generation from natural language prompts
 Export generated content as PDF and DOCX
@@ -17,7 +17,7 @@ Fast and responsive user interface
 Retrieval-augmented document generation using vector storage
 
 
-Technology Stack :
+- Technology Stack :
 
 Frontend :
 
@@ -27,23 +27,23 @@ Frontend :
 
 Backend :
 
--FastAPI
--Python
+- FastAPI
+- Python
 
 Artificial Intelligence :
 
--Ollama
--Llama 3
--LLM Layer
+- Ollama
+- Llama 3
+- LLM Layer
 
 Database & Storage :
 
--MySQL
--ChromaDB (Vector Database)
+- MySQL
+- ChromaDB (Vector Database)
 
 
 
-Project Architecture :
+- Project Architecture :
 
 User Prompt
 → React Frontend
@@ -54,7 +54,7 @@ User Prompt
 → PDF/DOCX Export
 
 
-Screenshots :
+- Screenshots :
 
 Login Page :
 
@@ -84,14 +84,14 @@ Generated doc pdf :
 
 
 
-Demo :
+- Demo :
 
 A complete demonstration video is available in the Demo folder.
 
 
 
 
-Future Enhancements :
+- Future Enhancements :
 
 Multi-language document generation
 Cloud deployment
